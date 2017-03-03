@@ -1,0 +1,24 @@
+{
+  "name": "@webwallet/iou",
+  "version": "0.0.1",
+  "description": "Sign and verify WebWallet IOUs.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/webwallet/iou.git"
+  },
+  "keywords": [
+    "iou",
+    "clearing",
+    "transaction"
+  ],
+  "author": "webwallet.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webwallet/iou/issues"
+  },
+  "homepage": "https://github.com/webwallet/iou#readme"
+}
